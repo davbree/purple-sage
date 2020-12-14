@@ -1,9 +1,8 @@
 ---
 category: Stuff
 url_path: '/stuff/:id'
-title: 'Delete a thing'
-type: 'DELETE'
-
+title: 'Delete a thing:'
+type: DELETE
 layout: null
 ---
 
